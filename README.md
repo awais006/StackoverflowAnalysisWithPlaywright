@@ -6,8 +6,8 @@
   - Title of the question
   - Tags
   - Number of votes
-  - Date and Time when question is asked
-##Validations
+  - Date and Time when the question is asked
+## Validations
 - Script will validate:
   - The questions are sorted from newest to oldest
   - Each question includes the "javascript" tag
